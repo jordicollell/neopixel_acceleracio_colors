@@ -1,5 +1,5 @@
 {
-    "name": "prova",
+    "name": "neopixel_acceleracio_colors",
     "description": "",
     "dependencies": {
         "core": "*",
